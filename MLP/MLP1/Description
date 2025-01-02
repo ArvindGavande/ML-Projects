@@ -1,1 +1,5 @@
-
+Use of Standard Libraries: The notebook uses widely accepted libraries like pandas, scikit-learn, and numpy, ensuring compatibility and reliability.
+Feature Scaling: Proper scaling of features using StandardScaler is included, which is essential for many machine learning models.
+Label Encoding: Correctly uses LabelEncoder for transforming categorical labels into numeric form.
+Data Splitting: Includes train_test_split for proper separation of training and testing data.
+Evaluation Metrics: Includes accuracy and predictions for assessing model performance.
